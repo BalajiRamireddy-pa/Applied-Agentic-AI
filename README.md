@@ -76,9 +76,9 @@ Currently training in Agentic AI at Codegnan, covering AI Agents, LLMs, RAG, Pro
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/jagadeesh-boyalla](https://www.linkedin.com/in/jagadeesh-boyalla/)
-- **GitHub:** [github.com/Jagadeesh-31](https://github.com/Jagadeesh-31)
-- **Email:** jagadeeshboyalla3384@gmail.com
+- **LinkedIn:**(linkedin.com/in/balajiramireddy/)
+- **GitHub:** (github.com/BalajiRamireddy-pa/Applied-Agentic-AI/edit/main/README.md)
+- **Email:** balajiramireddy4@gmail.com
 
 ---
 
