@@ -77,7 +77,7 @@ Currently training in Agentic AI at Codegnan, covering AI Agents, LLMs, RAG, Pro
 ## 📬 Connect With Me
 
 - **LinkedIn:**https://www.linkedin.com/in/balajiramireddy/
-- **GitHub:** https://github.com/BalajiRamireddy-pa/Applied-Agentic-AI/edit/main/README.md
+- **GitHub:** https://github.com/BalajiRamireddy-pa/Applied-Agentic-AI
 - **Email:** balajiramireddy4@gmail.com
 
 ---
