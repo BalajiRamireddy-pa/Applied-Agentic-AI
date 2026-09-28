@@ -1,0 +1,51 @@
+Product,Brand,Price,Stock,BestSeller
+Monitor,EchoBoom,43625,182,TRUE
+Bluetooth Speaker,SoundMax,10067,117,TRUE
+Laptop,SkyLink,65982,152,FALSE
+Webcam,EchoBoom,44852,115,FALSE
+Headphones,TechNova,53477,61,FALSE
+Webcam,SkyLink,48180,104,FALSE
+USB Cable,ByteCore,45096,63,FALSE
+Wireless Earbuds,ByteCore,45812,82,TRUE
+USB Cable,VoltX,77217,173,TRUE
+Hard Drive,SkyLink,65798,146,TRUE
+Laptop,NextGen,53616,24,FALSE
+Laptop,SoundMax,15764,116,TRUE
+SSD,NextGen,32934,81,FALSE
+Tablet,SoundMax,2826,42,TRUE
+Printer,PixelPro,79898,63,TRUE
+Router,EchoBoom,74190,127,TRUE
+Router,SkyLink,63027,66,TRUE
+Drone,SkyLink,21901,109,TRUE
+Projector,VoltX,72679,81,TRUE
+Webcam,VoltX,17138,83,FALSE
+Projector,TechNova,57509,73,FALSE
+Monitor,SkyLink,73788,52,TRUE
+Smartwatch,NovaTech,1559,192,FALSE
+Gaming Mouse,TimeTrack,2098,42,TRUE
+Headphones,TechNova,9591,20,FALSE
+Projector,PixelPro,54897,157,FALSE
+Power Bank,EchoBoom,8318,187,TRUE
+Smartphone,VoltX,63764,24,TRUE
+SSD,NovaTech,53013,25,FALSE
+Wireless Earbuds,PixelPro,39122,30,FALSE
+Webcam,NovaTech,63799,28,TRUE
+Laptop,PixelPro,26906,24,TRUE
+Gaming Mouse,TimeTrack,41963,101,FALSE
+Drone,SoundMax,3968,135,FALSE
+Smartphone,TimeTrack,35150,44,FALSE
+Bluetooth Speaker,TechNova,4649,56,FALSE
+Wireless Earbuds,NextGen,27632,56,FALSE
+Drone,SoundMax,23211,184,FALSE
+Tablet,NextGen,10142,77,TRUE
+Hard Drive,NextGen,72236,34,TRUE
+Hard Drive,SkyLink,8179,63,TRUE
+Microphone,ByteCore,48817,138,TRUE
+Projector,PixelPro,19005,136,FALSE
+Monitor,ByteCore,14169,145,FALSE
+Laptop,ByteCore,4447,70,TRUE
+Headphones,TechNova,64078,143,TRUE
+Smartphone,TimeTrack,46200,94,TRUE
+SSD,VoltX,1266,5,TRUE
+Printer,NextGen,17706,169,TRUE
+Smartphone,VoltX,63451,130,FALSE

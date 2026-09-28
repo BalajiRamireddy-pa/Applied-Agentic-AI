@@ -1,0 +1,51 @@
+,Product_Name,Brand,Price,Stock,BestSeller
+0,Monitor,EchoBoom,43625,182,True
+1,Bluetooth Speaker,SoundMax,10067,117,True
+2,Laptop,SkyLink,65982,152,False
+3,Webcam,EchoBoom,44852,115,False
+4,Headphones,TechNova,53477,61,False
+5,Webcam,SkyLink,48180,104,False
+6,USB Cable,ByteCore,45096,63,False
+7,Wireless Earbuds,ByteCore,45812,82,True
+8,USB Cable,VoltX,77217,173,True
+9,Hard Drive,SkyLink,65798,146,True
+10,Laptop,NextGen,53616,24,False
+11,Laptop,SoundMax,15764,116,True
+12,SSD,NextGen,32934,81,False
+13,Tablet,SoundMax,2826,42,True
+14,Printer,PixelPro,79898,63,True
+15,Router,EchoBoom,74190,127,True
+16,Router,SkyLink,63027,66,True
+17,Drone,SkyLink,21901,109,True
+18,Projector,VoltX,72679,81,True
+19,Webcam,VoltX,17138,83,False
+20,Projector,TechNova,57509,73,False
+21,Monitor,SkyLink,73788,52,True
+22,Smartwatch,NovaTech,1559,192,False
+23,Gaming Mouse,TimeTrack,2098,42,True
+24,Headphones,TechNova,9591,20,False
+25,Projector,PixelPro,54897,157,False
+26,Power Bank,EchoBoom,8318,187,True
+27,Smartphone,VoltX,63764,24,True
+28,SSD,NovaTech,53013,25,False
+29,Wireless Earbuds,PixelPro,39122,30,False
+30,Webcam,NovaTech,63799,28,True
+31,Laptop,PixelPro,26906,24,True
+32,Gaming Mouse,TimeTrack,41963,101,False
+33,Drone,SoundMax,3968,135,False
+34,Smartphone,TimeTrack,35150,44,False
+35,Bluetooth Speaker,TechNova,4649,56,False
+36,Wireless Earbuds,NextGen,27632,56,False
+37,Drone,SoundMax,23211,184,False
+38,Tablet,NextGen,10142,77,True
+39,Hard Drive,NextGen,72236,34,True
+40,Hard Drive,SkyLink,8179,63,True
+41,Microphone,ByteCore,48817,138,True
+42,Projector,PixelPro,19005,136,False
+43,Monitor,ByteCore,14169,145,False
+44,Laptop,ByteCore,4447,70,True
+45,Headphones,TechNova,64078,143,True
+46,Smartphone,TimeTrack,46200,94,True
+47,SSD,VoltX,1266,5,True
+48,Printer,NextGen,17706,169,True
+49,Smartphone,VoltX,63451,130,False
